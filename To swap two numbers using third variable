@@ -1,0 +1,8 @@
+a = 10
+b = 20
+
+# Swap a and b using temp variable
+temp = a
+a = b
+b = temp
+print(a, b)
